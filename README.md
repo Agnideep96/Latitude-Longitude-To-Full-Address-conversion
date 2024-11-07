@@ -120,18 +120,15 @@ The output will include an additional `Address` column:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/lat-lon-address-converter.git
+   git clone https://github.com/Agnideep96/Latitude-Longitude-To-Full-Address-conversion.git
    ```
 
 2. **Install Dependencies**:
-   Ensure you have Python 3.x installed. Install the required libraries:
-   ```bash
-   pip install pandas requests openpyxl
-   ```
+   Ensure you have Python 3.x installed. Install the required libraries.
 
 3. **Run the Script**:
    ```bash
-   python script_name.py
+   python AddressAutomation.py
    ```
 
 ---
@@ -156,16 +153,6 @@ The output will include an additional `Address` column:
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality.
-
----
 
 Let me know if you need further modifications!
