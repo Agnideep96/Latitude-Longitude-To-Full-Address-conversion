@@ -2,7 +2,8 @@
 
 This Python script simplifies the process of converting geographic coordinates (latitude and longitude) into human-readable addresses using the OpenStreetMap Nominatim API. It provides a user-friendly graphical interface for selecting Excel files containing coordinate data and saves the results back to an Excel file.
 
----
+**Special thanks to the OpenStreetMap Nominatim API** for being a free, reliable, and efficient geocoding service. It works exceptionally well with Irish latitude and longitude data, making it a great tool for anyone working with geolocation datasets in Ireland or elsewhere.
+
 
 ## Why Use This Script?
 
